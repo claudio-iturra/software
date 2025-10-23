@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: analytic_wavelet
+Version: 0.1
+Summary: A translation of J.M. Lilly's code for ridge and element analysis using generalized Morse wavelets into python
+Home-page: https://github.com/danrsc/analytic_wavelet
+Author: danrsc
+Author-email: 
+License: MIT
